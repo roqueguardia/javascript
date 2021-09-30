@@ -69,8 +69,8 @@
 
 
 // ARROW FUNCTION
-let unaResta = (numero) =>{
-    return numero-10;
-}
+// let unaResta = (numero) =>{
+//     return numero-10;
+// }
 
-console.log(unaResta(100));
+// console.log(unaResta(100));

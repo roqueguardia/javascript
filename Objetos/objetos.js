@@ -24,11 +24,9 @@ class personas {
     hablar() {
         console.log(`Hola, mi nombre es ${this.nombre}`);
     }
-
     caminar() {
         console.log(`Hoy caminé ${this.edad*4}`);
     }
-
     entrenar(time) {
         let tiempo= time*10;
         this.experiencia= this.experiencia+tiempo;
