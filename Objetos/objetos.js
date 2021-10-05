@@ -36,3 +36,4 @@ class personas {
 }
 
 const gabriel= new personas("gabriel", "guardia", 21);
+gabriel.entrenar();
